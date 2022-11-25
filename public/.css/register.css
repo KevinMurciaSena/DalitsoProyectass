@@ -1,0 +1,43 @@
+.body {
+    background-color:  #16191c;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    margin-top: 8rem;
+}
+
+.main {
+    padding-right: 15rem;
+    padding-left: 15rem;
+    padding-top: 3rem;
+}
+
+.card {
+    justify-content: flex-start;
+}
+
+.ingresa {
+    font-family: 'League Spartan', sans-serif;
+}
+
+.name{
+    text-align: start;
+}
+
+.password {
+    align-items: flex-start;
+}
+
+.registrado {
+    text-align: start;
+    margin-bottom: 15px;
+}
+.f {
+    margin-left: 2px;
+    border-radius: 1rem;
+    height: 25rem;
+}
+
+.rollwhell {
+    text-align: start;
+}

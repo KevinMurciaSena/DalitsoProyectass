@@ -1,0 +1,28 @@
+.main-container {
+    max-width: 50rem !important;
+}
+
+.navbar-logo {
+    max-width: 200px;
+    padding-bottom: 10rem;
+}
+.img-fluid {
+   
+    max-width: 100%;
+    max-height: 45%;
+    align-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.preFoto{
+    width: 20rem;
+    padding-left: 0.55rem;
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+}
+
+.barra{
+    z-index: 50rem;
+    margin-top: -0.45rem;
+    height: 1rem;
+}

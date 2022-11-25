@@ -1,0 +1,24 @@
+.rp {
+   text-align: center;
+   font-family: 'League Spartan', sans-serif;
+   margin-top: 3rem;
+}
+
+.compra {
+    margin-bottom: 1rem;
+    text-align: end;
+    padding-right: 2rem; 
+}
+
+.card {
+    margin-top: 3rem;
+    background-color: azure;
+}
+
+.inf {
+    margin-bottom: 2rem;
+}
+
+.card-body {
+    margin-top: 2rem;
+}
